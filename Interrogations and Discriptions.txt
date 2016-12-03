@@ -32,6 +32,9 @@ Interrogation. Justin Trudeau. Justin is an immigrant that owns a snow shoveling
 Description. Shovel. The shovel is metal and is very damaging if it were to hit somebody in the head.  
 Interrogation. John Smith. Mr.Smith always hated Mr.Koarspuh. However he would never kill him. Or would he?
 Interrogation. Tyrone Simmons. Mr.Simmons is a very heavy movie critic. 
+<<<<<<< HEAD
+Description. The camera could have been thrown at the victim so that the victim would have been temporaily stunned.
+=======
 Description. The camera could have been thrown at the victim so that the victim would have been temporaily stunned.  
 =======
 Interrogation. Justin Trudeau. Justin is an immigrant that owns a snow shoveling buisiness. He never liked Mr.Corpse since Mr.Corpse underpaid him. However Justin would never kill him.
@@ -41,3 +44,4 @@ Description. Civil war musket.
 >>>>>>>
 Interrogation.
 Interrogation.
+>>>>>>> master
