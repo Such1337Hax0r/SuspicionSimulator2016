@@ -1,11 +1,9 @@
-<<<<<<<
 Description. Money. I can never get enough. 
 Butchers Knife. Why is the knife so bloody. Is it human blood. Or animal. Unfortanetly we may never know since it's Butchers knife.
 Chemicals. Why is there chemicals in general. Like come on why is it here. There is noreason to have chemicals however if it is the murder weapom the who would use it? Are they a scientist?
 Cane. This is a walking cane. Why? Is there an opld person struggling to walk. NO way an old person would never kll somebody. Wait why would I say that I'm a detective at a murder crime scene anyone could have done the Murder.
 Knot A. Koarspuh. Evalulation. There appears to be nothing on there but that's not enough. The murderer could have stabbed Mr. Corpse and patched him up. Looking at this recent medical records he had a surgery five days ago so he has stiches on his stomach. However maybe the murderer knew this. So there is still a chance of physical violence.
 Lee. Zhang. Interrogation. The interrogation of Mr.Wang was shocking. Mr.Wang said that he knew nothing of his murder until now. He was also the one who called the police! He found Mr.Corpses body but he never murdered Mr.Corpse or at least that's what he says.
-=======
 Could this money be a clue? How does he have so much money? Did he steal from Mr. Dead body? or did he earn like hard working American citizen.
 Butchers Knife. Why is the knife so bloody. Is it human blood. Or animal. Unfortunately we may never know since it's Butchers knife.
 Chemicals. Why is there chemicals in general. Like come on why is it here. There is no reason to have chemicals however if it is the murder weapon the who would use it? Are they a scientist?
@@ -20,23 +18,24 @@ Interrogation. Donovan Osborne. Mr. Osborne has a very heavy english accent. Mr 
 Interrogation. Vladimir. Mr.Corpse hired Vladimir to fix his rooftop, since it was heavily damaged. Mr.Corpse also called me to fix his garden outside of his house. I came over with my best hammer to fix the roof and my best sicile to help with the garden. I came to find Mr.Corpse in an dark alley adjacent to his house.  Mr wang was already and told me that he called the cops.
 Description. Hammer. This hammer is made by the Russians so Vladimir might have used it. The brand is Czernobog. Very good for nailing wood but if needed can be used as a weapom. If so Vladimir shall done for in the American court of law. 
 Description. Sicle. Vladimir brang the sicile to tend to Mr.Corpse's garden. Could this weapon be the item used Vladimir or could somevody have tolen it whilst Vladimir was fixing the rooftop?
-=======
 Interrogation. Donovan Osborne. Mr. Osborne has a very heavy english accent. Mr Osborne constantly goes to revolutionary war reenactments and may know how to use a flintlock rifle.
 Interrogation. Vladimir. Mr.Corpse hired Vladimir to fix his rooftop, since it was heavily damaged. Mr.Corpse also called me to fix his garden outside of his house. I came over with my best hammer to fix the roof and my best sickle to help with the garden. I came to find Mr.Corpse in an dark alley adjacent to his house.  Mr wang was already and told me that he called the cops.
 Description. Hammer. This hammer is made Russians so Vladimir might have used it. The brand is Czernobog. Very good for nailing wood but if needed can be used as a weapon. If so Vladimir shall done for in the American court of law. 
 Description. Sickle. Vladimir brought the sickle to tend to Mr.Corpse's garden. Could this weapon be the item used Vladimir or could somebody have stolen it whilst Vladimir was fixing the rooftop?
->>>>>>>
 Description. 
-<<<<<<<
 Interrogation. Justin Trudeau. Justin is an immigrant that owns a snow shoveling buisness. He never liked Mr.Corpse since Mr.Corpse underpaied him. However Justin would never kill him.
 Description. Shovel. The shovel is metal and is very damaging if it were to hit somebody in the head.  
 Interrogation. John Smith. Mr.Smith always hated Mr.Koarspuh. However he would never kill him. Or would he?
 Interrogation. Tyrone Simmons. Mr.Simmons is a very heavy movie critic. 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Description. The camera could have been thrown at the victim so that the victim would have been temporaily stunned.
 =======
 Description. The camera could have been thrown at the victim so that the victim would have been temporaily stunned.  
 =======
+=======
+Description. The camera could have been thrown at the victim so that the victim would have been temporaily stunned.  
+>>>>>>> Stashed changes
 Interrogation. Justin Trudeau. Justin is an immigrant that owns a snow shoveling buisiness. He never liked Mr.Corpse since Mr.Corpse underpaid him. However Justin would never kill him.
 Description. Shovel. The shovel is metal 
 Interrogation. John Smith. Interrogation
