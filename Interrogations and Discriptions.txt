@@ -13,8 +13,8 @@ Description. Sicle. Vladimir brang the sicile to tend to Mr.Corpse's garden. Cou
 Description. 
 Interrogation. Justin Trudeau. Justin is an immigrant that owns a snow shoveling buisness. He never liked Mr.Corpse since Mr.Corpse underpaied him. However Justin would never kill him.
 Description. Shovel. The shovel is metal 
-Interrogation. 
-Description. 
+Interrogation. John Smith. Interrogation
+Description. Civil war musket.
 Interrogation.
 Interrogation.
 Interrogation.
